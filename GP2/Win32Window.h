@@ -1,3 +1,4 @@
+//lookup header guard
 #pragma once
 
 #include <string>
